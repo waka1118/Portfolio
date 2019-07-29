@@ -68077,3 +68077,1997 @@ Stack trace:
 
 [27-Jul-2019 20:38:02 Asia/Tokyo] デバッグ：画面表示処理終了＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
 [27-Jul-2019 20:38:02 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:01 Asia/Tokyo] デバッグ：ログインページ
+[29-Jul-2019 20:09:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:01 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[29-Jul-2019 20:09:01 Asia/Tokyo] デバッグ：セッションID：ce0571al75f5nv4f82r8re51ot
+[29-Jul-2019 20:09:01 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1564227482
+    [login_limit] => 3600
+    [user_id] => 15
+)
+
+[29-Jul-2019 20:09:01 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1564398541
+[29-Jul-2019 20:09:01 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1564231082
+[29-Jul-2019 20:09:01 Asia/Tokyo] デバッグ：ログイン済みユーザーです
+[29-Jul-2019 20:09:01 Asia/Tokyo] デバッグ：有効期限オーバーです
+[29-Jul-2019 20:09:01 Asia/Tokyo] デバッグ：画面終了表示>>>>>>>>>>>>>>>>>>>
+[29-Jul-2019 20:09:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:01 Asia/Tokyo] デバッグ：ログインページ
+[29-Jul-2019 20:09:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:01 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[29-Jul-2019 20:09:01 Asia/Tokyo] デバッグ：セッションID：hca7lndkr80g1mdc82f63mjhep
+[29-Jul-2019 20:09:01 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[29-Jul-2019 20:09:01 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1564398541
+[29-Jul-2019 20:09:01 Asia/Tokyo] デバッグ：未ログインユーザーです
+[29-Jul-2019 20:09:01 Asia/Tokyo] デバッグ：画面終了表示>>>>>>>>>>>>>>>>>>>
+[29-Jul-2019 20:09:08 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:08 Asia/Tokyo] デバッグ：ログインページ
+[29-Jul-2019 20:09:08 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:08 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[29-Jul-2019 20:09:08 Asia/Tokyo] デバッグ：セッションID：fft0rj1bl7bcg7gd70ot2a5egm
+[29-Jul-2019 20:09:08 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[29-Jul-2019 20:09:08 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1564398548
+[29-Jul-2019 20:09:08 Asia/Tokyo] デバッグ：未ログインユーザーです
+[29-Jul-2019 20:09:08 Asia/Tokyo] デバッグ：POST送信があります
+[29-Jul-2019 20:09:08 Asia/Tokyo] デバッグ：バリデーションOK
+[29-Jul-2019 20:09:08 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:08 Asia/Tokyo] デバッグ：クエリの中身：Array
+(
+    [password] => $2y$10$qlNTrWDpwz7AjCf9ojT0/e3SxWfqHCugZTT7WQ89454x1cYRVjoeq
+    [id] => 11
+)
+
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：パスワードがマッチしました
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：ログイン保持にチェックがありません
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1564398549
+    [login_limit] => 3600
+    [user_id] => 11
+)
+
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：マイページへ遷移します
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：画面終了表示>>>>>>>>>>>>>>>>>>>
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：ログイン後トップページ
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：セッションID：h144mnlonlqr2cle9d3cmh8042
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1564398549
+    [login_limit] => 3600
+    [user_id] => 11
+)
+
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1564398549
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1564402149
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：ログイン済みユーザーです
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：ログイン有効期限以内です
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：ユーザー情報を取得します
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：SQL:SELECT * FROM users WHERE delete_flg =0 LIMIT 8 OFFSET 0
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：ユーザー情報の詳細を取得します
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：ユーザーID：11
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：自分のmsg情報を取得します
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：UserListページにて取得した掲示板データ：Array
+(
+    [0] => Array
+        (
+            [id] => 28
+            [receive_user] => 12
+            [send_user] => 11
+            [delete_flg] => 
+            [create_date] => 2019-07-25 17:50:28
+            [update_date] => 2019-07-25 17:50:28
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 24
+                            [bord_id] => 28
+                            [send_date] => 2019-07-27 13:35:17
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => メッセージ機能できました！！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 13:35:17
+                            [update_date] => 
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 20
+                            [bord_id] => 28
+                            [send_date] => 2019-07-26 11:29:54
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => あーどうも、うぶさん！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 11:29:54
+                            [update_date] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [id] => 19
+                            [bord_id] => 28
+                            [send_date] => 2019-07-25 17:50:49
+                            [to_user] => 11
+                            [from_user] => 12
+                            [msg] => こんにちは　ひなっちさん
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-25 17:50:49
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 29
+            [receive_user] => 11
+            [send_user] => 16
+            [delete_flg] => 
+            [create_date] => 2019-07-26 22:23:00
+            [update_date] => 2019-07-26 22:23:00
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 25
+                            [bord_id] => 29
+                            [send_date] => 2019-07-27 20:15:05
+                            [to_user] => 16
+                            [from_user] => 11
+                            [msg] => こんばんは！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 20:15:05
+                            [update_date] => 
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 22
+                            [bord_id] => 29
+                            [send_date] => 2019-07-26 22:23:36
+                            [to_user] => 11
+                            [from_user] => 16
+                            [msg] => こんばんは〜
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 22:23:36
+                            [update_date] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [id] => 21
+                            [bord_id] => 29
+                            [send_date] => 2019-07-26 22:23:13
+                            [to_user] => 16
+                            [from_user] => 11
+                            [msg] => なかださんこんにちは　ひなっちです〜
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 22:23:13
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [id] => 30
+            [receive_user] => 11
+            [send_user] => 12
+            [delete_flg] => 
+            [create_date] => 2019-07-27 11:47:48
+            [update_date] => 2019-07-27 11:47:48
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 23
+                            [bord_id] => 30
+                            [send_date] => 2019-07-27 11:48:26
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => こんにちは　うぶさーん
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 11:48:26
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [id] => 32
+            [receive_user] => 11
+            [send_user] => 15
+            [delete_flg] => 
+            [create_date] => 2019-07-27 20:32:55
+            [update_date] => 2019-07-27 20:32:55
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 28
+                            [bord_id] => 32
+                            [send_date] => 2019-07-27 20:33:13
+                            [to_user] => 15
+                            [from_user] => 11
+                            [msg] => こんにちは！ひなっちです！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 20:33:13
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+)
+
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：画面表示処理終了＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:09 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：ログイン後トップページ
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：セッションID：qiuvr3uq16mklqv3ajupk9c019
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1564398549
+    [login_limit] => 3600
+    [user_id] => 11
+)
+
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1564398558
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1564402149
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：ログイン済みユーザーです
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：ログイン有効期限以内です
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：ユーザー情報を取得します
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：SQL:SELECT * FROM users WHERE delete_flg =0 LIMIT 8 OFFSET 8
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：ユーザー情報の詳細を取得します
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：ユーザーID：11
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：自分のmsg情報を取得します
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：UserListページにて取得した掲示板データ：Array
+(
+    [0] => Array
+        (
+            [id] => 28
+            [receive_user] => 12
+            [send_user] => 11
+            [delete_flg] => 
+            [create_date] => 2019-07-25 17:50:28
+            [update_date] => 2019-07-25 17:50:28
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 24
+                            [bord_id] => 28
+                            [send_date] => 2019-07-27 13:35:17
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => メッセージ機能できました！！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 13:35:17
+                            [update_date] => 
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 20
+                            [bord_id] => 28
+                            [send_date] => 2019-07-26 11:29:54
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => あーどうも、うぶさん！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 11:29:54
+                            [update_date] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [id] => 19
+                            [bord_id] => 28
+                            [send_date] => 2019-07-25 17:50:49
+                            [to_user] => 11
+                            [from_user] => 12
+                            [msg] => こんにちは　ひなっちさん
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-25 17:50:49
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 29
+            [receive_user] => 11
+            [send_user] => 16
+            [delete_flg] => 
+            [create_date] => 2019-07-26 22:23:00
+            [update_date] => 2019-07-26 22:23:00
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 25
+                            [bord_id] => 29
+                            [send_date] => 2019-07-27 20:15:05
+                            [to_user] => 16
+                            [from_user] => 11
+                            [msg] => こんばんは！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 20:15:05
+                            [update_date] => 
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 22
+                            [bord_id] => 29
+                            [send_date] => 2019-07-26 22:23:36
+                            [to_user] => 11
+                            [from_user] => 16
+                            [msg] => こんばんは〜
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 22:23:36
+                            [update_date] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [id] => 21
+                            [bord_id] => 29
+                            [send_date] => 2019-07-26 22:23:13
+                            [to_user] => 16
+                            [from_user] => 11
+                            [msg] => なかださんこんにちは　ひなっちです〜
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 22:23:13
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [id] => 30
+            [receive_user] => 11
+            [send_user] => 12
+            [delete_flg] => 
+            [create_date] => 2019-07-27 11:47:48
+            [update_date] => 2019-07-27 11:47:48
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 23
+                            [bord_id] => 30
+                            [send_date] => 2019-07-27 11:48:26
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => こんにちは　うぶさーん
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 11:48:26
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [id] => 32
+            [receive_user] => 11
+            [send_user] => 15
+            [delete_flg] => 
+            [create_date] => 2019-07-27 20:32:55
+            [update_date] => 2019-07-27 20:32:55
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 28
+                            [bord_id] => 32
+                            [send_date] => 2019-07-27 20:33:13
+                            [to_user] => 15
+                            [from_user] => 11
+                            [msg] => こんにちは！ひなっちです！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 20:33:13
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+)
+
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：画面表示処理終了＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:18 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：ログイン後トップページ
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：セッションID：bm5d9l96tvvmb19oql753s72ge
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1564398558
+    [login_limit] => 3600
+    [user_id] => 11
+)
+
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1564398562
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1564402158
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：ログイン済みユーザーです
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：ログイン有効期限以内です
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：ユーザー情報を取得します
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：SQL:SELECT * FROM users WHERE delete_flg =0 LIMIT 8 OFFSET 16
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：ユーザー情報の詳細を取得します
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：ユーザーID：11
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：自分のmsg情報を取得します
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：UserListページにて取得した掲示板データ：Array
+(
+    [0] => Array
+        (
+            [id] => 28
+            [receive_user] => 12
+            [send_user] => 11
+            [delete_flg] => 
+            [create_date] => 2019-07-25 17:50:28
+            [update_date] => 2019-07-25 17:50:28
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 24
+                            [bord_id] => 28
+                            [send_date] => 2019-07-27 13:35:17
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => メッセージ機能できました！！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 13:35:17
+                            [update_date] => 
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 20
+                            [bord_id] => 28
+                            [send_date] => 2019-07-26 11:29:54
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => あーどうも、うぶさん！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 11:29:54
+                            [update_date] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [id] => 19
+                            [bord_id] => 28
+                            [send_date] => 2019-07-25 17:50:49
+                            [to_user] => 11
+                            [from_user] => 12
+                            [msg] => こんにちは　ひなっちさん
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-25 17:50:49
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 29
+            [receive_user] => 11
+            [send_user] => 16
+            [delete_flg] => 
+            [create_date] => 2019-07-26 22:23:00
+            [update_date] => 2019-07-26 22:23:00
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 25
+                            [bord_id] => 29
+                            [send_date] => 2019-07-27 20:15:05
+                            [to_user] => 16
+                            [from_user] => 11
+                            [msg] => こんばんは！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 20:15:05
+                            [update_date] => 
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 22
+                            [bord_id] => 29
+                            [send_date] => 2019-07-26 22:23:36
+                            [to_user] => 11
+                            [from_user] => 16
+                            [msg] => こんばんは〜
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 22:23:36
+                            [update_date] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [id] => 21
+                            [bord_id] => 29
+                            [send_date] => 2019-07-26 22:23:13
+                            [to_user] => 16
+                            [from_user] => 11
+                            [msg] => なかださんこんにちは　ひなっちです〜
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 22:23:13
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [id] => 30
+            [receive_user] => 11
+            [send_user] => 12
+            [delete_flg] => 
+            [create_date] => 2019-07-27 11:47:48
+            [update_date] => 2019-07-27 11:47:48
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 23
+                            [bord_id] => 30
+                            [send_date] => 2019-07-27 11:48:26
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => こんにちは　うぶさーん
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 11:48:26
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [id] => 32
+            [receive_user] => 11
+            [send_user] => 15
+            [delete_flg] => 
+            [create_date] => 2019-07-27 20:32:55
+            [update_date] => 2019-07-27 20:32:55
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 28
+                            [bord_id] => 32
+                            [send_date] => 2019-07-27 20:33:13
+                            [to_user] => 15
+                            [from_user] => 11
+                            [msg] => こんにちは！ひなっちです！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 20:33:13
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+)
+
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：画面表示処理終了＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:22 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：ログイン後トップページ
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：セッションID：udqkhdfqv8r009cdlqqsagphsl
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1564398562
+    [login_limit] => 3600
+    [user_id] => 11
+)
+
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1564398566
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1564402162
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：ログイン済みユーザーです
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：ログイン有効期限以内です
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：ユーザー情報を取得します
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：SQL:SELECT * FROM users WHERE delete_flg =0 LIMIT 8 OFFSET 0
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：ユーザー情報の詳細を取得します
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：ユーザーID：11
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：自分のmsg情報を取得します
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：UserListページにて取得した掲示板データ：Array
+(
+    [0] => Array
+        (
+            [id] => 28
+            [receive_user] => 12
+            [send_user] => 11
+            [delete_flg] => 
+            [create_date] => 2019-07-25 17:50:28
+            [update_date] => 2019-07-25 17:50:28
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 24
+                            [bord_id] => 28
+                            [send_date] => 2019-07-27 13:35:17
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => メッセージ機能できました！！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 13:35:17
+                            [update_date] => 
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 20
+                            [bord_id] => 28
+                            [send_date] => 2019-07-26 11:29:54
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => あーどうも、うぶさん！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 11:29:54
+                            [update_date] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [id] => 19
+                            [bord_id] => 28
+                            [send_date] => 2019-07-25 17:50:49
+                            [to_user] => 11
+                            [from_user] => 12
+                            [msg] => こんにちは　ひなっちさん
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-25 17:50:49
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 29
+            [receive_user] => 11
+            [send_user] => 16
+            [delete_flg] => 
+            [create_date] => 2019-07-26 22:23:00
+            [update_date] => 2019-07-26 22:23:00
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 25
+                            [bord_id] => 29
+                            [send_date] => 2019-07-27 20:15:05
+                            [to_user] => 16
+                            [from_user] => 11
+                            [msg] => こんばんは！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 20:15:05
+                            [update_date] => 
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 22
+                            [bord_id] => 29
+                            [send_date] => 2019-07-26 22:23:36
+                            [to_user] => 11
+                            [from_user] => 16
+                            [msg] => こんばんは〜
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 22:23:36
+                            [update_date] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [id] => 21
+                            [bord_id] => 29
+                            [send_date] => 2019-07-26 22:23:13
+                            [to_user] => 16
+                            [from_user] => 11
+                            [msg] => なかださんこんにちは　ひなっちです〜
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 22:23:13
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [id] => 30
+            [receive_user] => 11
+            [send_user] => 12
+            [delete_flg] => 
+            [create_date] => 2019-07-27 11:47:48
+            [update_date] => 2019-07-27 11:47:48
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 23
+                            [bord_id] => 30
+                            [send_date] => 2019-07-27 11:48:26
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => こんにちは　うぶさーん
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 11:48:26
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [id] => 32
+            [receive_user] => 11
+            [send_user] => 15
+            [delete_flg] => 
+            [create_date] => 2019-07-27 20:32:55
+            [update_date] => 2019-07-27 20:32:55
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 28
+                            [bord_id] => 32
+                            [send_date] => 2019-07-27 20:33:13
+                            [to_user] => 15
+                            [from_user] => 11
+                            [msg] => こんにちは！ひなっちです！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 20:33:13
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+)
+
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：画面表示処理終了＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:26 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:38 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:38 Asia/Tokyo] デバッグ：マイページ
+[29-Jul-2019 20:09:38 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:38 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[29-Jul-2019 20:09:38 Asia/Tokyo] デバッグ：セッションID：u6saha3me0nfqbr4pdv587eedo
+[29-Jul-2019 20:09:38 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1564398566
+    [login_limit] => 3600
+    [user_id] => 11
+)
+
+[29-Jul-2019 20:09:38 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1564398578
+[29-Jul-2019 20:09:38 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1564402166
+[29-Jul-2019 20:09:38 Asia/Tokyo] デバッグ：ログイン済みユーザーです
+[29-Jul-2019 20:09:38 Asia/Tokyo] デバッグ：ログイン有効期限以内です
+[29-Jul-2019 20:09:38 Asia/Tokyo] デバッグ：ユーザー情報の詳細を取得します
+[29-Jul-2019 20:09:38 Asia/Tokyo] デバッグ：ユーザーID：11
+[29-Jul-2019 20:09:38 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:38 Asia/Tokyo] デバッグ：取得したDBデータ：1
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：ログインページ
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：セッションID：kn6l178t6o6g7sa2nlu3mr41i4
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1564398578
+    [login_limit] => 3600
+    [user_id] => 11
+)
+
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1564398584
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1564402178
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：ログイン済みユーザーです
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：ログイン有効期限以内です
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：マイページへ遷移します
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：画面終了表示>>>>>>>>>>>>>>>>>>>
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：ログイン後トップページ
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：セッションID：oljp2h49tcocfnaajc06n7ieoa
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1564398584
+    [login_limit] => 3600
+    [user_id] => 11
+)
+
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1564398584
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1564402184
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：ログイン済みユーザーです
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：ログイン有効期限以内です
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：ユーザー情報を取得します
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：SQL:SELECT * FROM users WHERE delete_flg =0 LIMIT 8 OFFSET 0
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：ユーザー情報の詳細を取得します
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：ユーザーID：11
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：自分のmsg情報を取得します
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：UserListページにて取得した掲示板データ：Array
+(
+    [0] => Array
+        (
+            [id] => 28
+            [receive_user] => 12
+            [send_user] => 11
+            [delete_flg] => 
+            [create_date] => 2019-07-25 17:50:28
+            [update_date] => 2019-07-25 17:50:28
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 24
+                            [bord_id] => 28
+                            [send_date] => 2019-07-27 13:35:17
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => メッセージ機能できました！！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 13:35:17
+                            [update_date] => 
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 20
+                            [bord_id] => 28
+                            [send_date] => 2019-07-26 11:29:54
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => あーどうも、うぶさん！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 11:29:54
+                            [update_date] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [id] => 19
+                            [bord_id] => 28
+                            [send_date] => 2019-07-25 17:50:49
+                            [to_user] => 11
+                            [from_user] => 12
+                            [msg] => こんにちは　ひなっちさん
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-25 17:50:49
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 29
+            [receive_user] => 11
+            [send_user] => 16
+            [delete_flg] => 
+            [create_date] => 2019-07-26 22:23:00
+            [update_date] => 2019-07-26 22:23:00
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 25
+                            [bord_id] => 29
+                            [send_date] => 2019-07-27 20:15:05
+                            [to_user] => 16
+                            [from_user] => 11
+                            [msg] => こんばんは！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 20:15:05
+                            [update_date] => 
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 22
+                            [bord_id] => 29
+                            [send_date] => 2019-07-26 22:23:36
+                            [to_user] => 11
+                            [from_user] => 16
+                            [msg] => こんばんは〜
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 22:23:36
+                            [update_date] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [id] => 21
+                            [bord_id] => 29
+                            [send_date] => 2019-07-26 22:23:13
+                            [to_user] => 16
+                            [from_user] => 11
+                            [msg] => なかださんこんにちは　ひなっちです〜
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 22:23:13
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [id] => 30
+            [receive_user] => 11
+            [send_user] => 12
+            [delete_flg] => 
+            [create_date] => 2019-07-27 11:47:48
+            [update_date] => 2019-07-27 11:47:48
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 23
+                            [bord_id] => 30
+                            [send_date] => 2019-07-27 11:48:26
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => こんにちは　うぶさーん
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 11:48:26
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [id] => 32
+            [receive_user] => 11
+            [send_user] => 15
+            [delete_flg] => 
+            [create_date] => 2019-07-27 20:32:55
+            [update_date] => 2019-07-27 20:32:55
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 28
+                            [bord_id] => 32
+                            [send_date] => 2019-07-27 20:33:13
+                            [to_user] => 15
+                            [from_user] => 11
+                            [msg] => こんにちは！ひなっちです！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 20:33:13
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+)
+
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：画面表示処理終了＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:44 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:48 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:48 Asia/Tokyo] デバッグ：プロフィール編集画面
+[29-Jul-2019 20:09:48 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:48 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[29-Jul-2019 20:09:48 Asia/Tokyo] デバッグ：セッションID：kov7t1blcgt5dujrm3tjahfgu3
+[29-Jul-2019 20:09:48 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1564398584
+    [login_limit] => 3600
+    [user_id] => 11
+)
+
+[29-Jul-2019 20:09:48 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1564398588
+[29-Jul-2019 20:09:48 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1564402184
+[29-Jul-2019 20:09:48 Asia/Tokyo] デバッグ：ログイン済みユーザーです
+[29-Jul-2019 20:09:48 Asia/Tokyo] デバッグ：ログイン有効期限以内です
+[29-Jul-2019 20:09:48 Asia/Tokyo] デバッグ：ユーザー情報を取得します
+[29-Jul-2019 20:09:48 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:48 Asia/Tokyo] デバッグ：取得したユーザー情報:1
+[29-Jul-2019 20:09:48 Asia/Tokyo] デバッグ：画面表示処理終了＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+[29-Jul-2019 20:09:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:53 Asia/Tokyo] デバッグ：退会ページ
+[29-Jul-2019 20:09:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:53 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[29-Jul-2019 20:09:53 Asia/Tokyo] デバッグ：セッションID：u92f0bsk8tdo5q2ml3tomaondd
+[29-Jul-2019 20:09:53 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1564398588
+    [login_limit] => 3600
+    [user_id] => 11
+)
+
+[29-Jul-2019 20:09:53 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1564398593
+[29-Jul-2019 20:09:53 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1564402188
+[29-Jul-2019 20:09:53 Asia/Tokyo] デバッグ：ログイン済みユーザーです
+[29-Jul-2019 20:09:53 Asia/Tokyo] デバッグ：ログイン有効期限以内です
+[29-Jul-2019 20:09:53 Asia/Tokyo] デバッグ：画面表示処理終了＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+[29-Jul-2019 20:09:56 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:56 Asia/Tokyo] デバッグ：マイページ
+[29-Jul-2019 20:09:56 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「
+[29-Jul-2019 20:09:56 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[29-Jul-2019 20:09:56 Asia/Tokyo] デバッグ：セッションID：7m1ubsvt3t0ehh8cru5qmo9p60
+[29-Jul-2019 20:09:56 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1564398593
+    [login_limit] => 3600
+    [user_id] => 11
+)
+
+[29-Jul-2019 20:09:56 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1564398596
+[29-Jul-2019 20:09:56 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1564402193
+[29-Jul-2019 20:09:56 Asia/Tokyo] デバッグ：ログイン済みユーザーです
+[29-Jul-2019 20:09:56 Asia/Tokyo] デバッグ：ログイン有効期限以内です
+[29-Jul-2019 20:09:56 Asia/Tokyo] デバッグ：ユーザー情報の詳細を取得します
+[29-Jul-2019 20:09:56 Asia/Tokyo] デバッグ：ユーザーID：11
+[29-Jul-2019 20:09:56 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:09:56 Asia/Tokyo] デバッグ：取得したDBデータ：1
+[29-Jul-2019 20:10:05 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:10:05 Asia/Tokyo] デバッグ：プロフィール編集画面
+[29-Jul-2019 20:10:05 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:10:05 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[29-Jul-2019 20:10:05 Asia/Tokyo] デバッグ：セッションID：4trqcm1lgtc6i8on09b2lg38sr
+[29-Jul-2019 20:10:05 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1564398596
+    [login_limit] => 3600
+    [user_id] => 11
+)
+
+[29-Jul-2019 20:10:05 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1564398605
+[29-Jul-2019 20:10:05 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1564402196
+[29-Jul-2019 20:10:05 Asia/Tokyo] デバッグ：ログイン済みユーザーです
+[29-Jul-2019 20:10:05 Asia/Tokyo] デバッグ：ログイン有効期限以内です
+[29-Jul-2019 20:10:05 Asia/Tokyo] デバッグ：ユーザー情報を取得します
+[29-Jul-2019 20:10:05 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:05 Asia/Tokyo] デバッグ：取得したユーザー情報:1
+[29-Jul-2019 20:10:05 Asia/Tokyo] デバッグ：画面表示処理終了＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+[29-Jul-2019 20:10:09 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:10:09 Asia/Tokyo] デバッグ：退会ページ
+[29-Jul-2019 20:10:09 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:10:09 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[29-Jul-2019 20:10:09 Asia/Tokyo] デバッグ：セッションID：g2idsdqqi7m0b3j1f75hpd7uju
+[29-Jul-2019 20:10:09 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1564398605
+    [login_limit] => 3600
+    [user_id] => 11
+)
+
+[29-Jul-2019 20:10:09 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1564398609
+[29-Jul-2019 20:10:09 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1564402205
+[29-Jul-2019 20:10:09 Asia/Tokyo] デバッグ：ログイン済みユーザーです
+[29-Jul-2019 20:10:09 Asia/Tokyo] デバッグ：ログイン有効期限以内です
+[29-Jul-2019 20:10:09 Asia/Tokyo] デバッグ：画面表示処理終了＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+[29-Jul-2019 20:10:12 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「
+[29-Jul-2019 20:10:12 Asia/Tokyo] デバッグ：マイページ
+[29-Jul-2019 20:10:12 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「
+[29-Jul-2019 20:10:12 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[29-Jul-2019 20:10:12 Asia/Tokyo] デバッグ：セッションID：t6gr73vqrathboucr8seil4ve9
+[29-Jul-2019 20:10:12 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1564398609
+    [login_limit] => 3600
+    [user_id] => 11
+)
+
+[29-Jul-2019 20:10:12 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1564398612
+[29-Jul-2019 20:10:12 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1564402209
+[29-Jul-2019 20:10:12 Asia/Tokyo] デバッグ：ログイン済みユーザーです
+[29-Jul-2019 20:10:12 Asia/Tokyo] デバッグ：ログイン有効期限以内です
+[29-Jul-2019 20:10:12 Asia/Tokyo] デバッグ：ユーザー情報の詳細を取得します
+[29-Jul-2019 20:10:12 Asia/Tokyo] デバッグ：ユーザーID：11
+[29-Jul-2019 20:10:12 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:12 Asia/Tokyo] デバッグ：取得したDBデータ：1
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：ログイン後トップページ
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：セッションID：4ihl35a23q0qa6rc3phg2v6au8
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1564398612
+    [login_limit] => 3600
+    [user_id] => 11
+)
+
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1564398618
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1564402212
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：ログイン済みユーザーです
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：ログイン有効期限以内です
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：ユーザー情報を取得します
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：SQL:SELECT * FROM users WHERE delete_flg =0 LIMIT 8 OFFSET 0
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：ユーザー情報の詳細を取得します
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：ユーザーID：11
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：自分のmsg情報を取得します
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：UserListページにて取得した掲示板データ：Array
+(
+    [0] => Array
+        (
+            [id] => 28
+            [receive_user] => 12
+            [send_user] => 11
+            [delete_flg] => 
+            [create_date] => 2019-07-25 17:50:28
+            [update_date] => 2019-07-25 17:50:28
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 24
+                            [bord_id] => 28
+                            [send_date] => 2019-07-27 13:35:17
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => メッセージ機能できました！！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 13:35:17
+                            [update_date] => 
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 20
+                            [bord_id] => 28
+                            [send_date] => 2019-07-26 11:29:54
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => あーどうも、うぶさん！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 11:29:54
+                            [update_date] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [id] => 19
+                            [bord_id] => 28
+                            [send_date] => 2019-07-25 17:50:49
+                            [to_user] => 11
+                            [from_user] => 12
+                            [msg] => こんにちは　ひなっちさん
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-25 17:50:49
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 29
+            [receive_user] => 11
+            [send_user] => 16
+            [delete_flg] => 
+            [create_date] => 2019-07-26 22:23:00
+            [update_date] => 2019-07-26 22:23:00
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 25
+                            [bord_id] => 29
+                            [send_date] => 2019-07-27 20:15:05
+                            [to_user] => 16
+                            [from_user] => 11
+                            [msg] => こんばんは！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 20:15:05
+                            [update_date] => 
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 22
+                            [bord_id] => 29
+                            [send_date] => 2019-07-26 22:23:36
+                            [to_user] => 11
+                            [from_user] => 16
+                            [msg] => こんばんは〜
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 22:23:36
+                            [update_date] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [id] => 21
+                            [bord_id] => 29
+                            [send_date] => 2019-07-26 22:23:13
+                            [to_user] => 16
+                            [from_user] => 11
+                            [msg] => なかださんこんにちは　ひなっちです〜
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 22:23:13
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [id] => 30
+            [receive_user] => 11
+            [send_user] => 12
+            [delete_flg] => 
+            [create_date] => 2019-07-27 11:47:48
+            [update_date] => 2019-07-27 11:47:48
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 23
+                            [bord_id] => 30
+                            [send_date] => 2019-07-27 11:48:26
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => こんにちは　うぶさーん
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 11:48:26
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [id] => 32
+            [receive_user] => 11
+            [send_user] => 15
+            [delete_flg] => 
+            [create_date] => 2019-07-27 20:32:55
+            [update_date] => 2019-07-27 20:32:55
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 28
+                            [bord_id] => 32
+                            [send_date] => 2019-07-27 20:33:13
+                            [to_user] => 15
+                            [from_user] => 11
+                            [msg] => こんにちは！ひなっちです！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 20:33:13
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+)
+
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：画面表示処理終了＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:18 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：ログイン後トップページ
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：セッションID：t2hu00155n2sjbontttgme8ltr
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1564398618
+    [login_limit] => 3600
+    [user_id] => 11
+)
+
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1564398625
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1564402218
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：ログイン済みユーザーです
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：ログイン有効期限以内です
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：ユーザー情報を取得します
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：SQL:SELECT * FROM users WHERE delete_flg =0 LIMIT 8 OFFSET 8
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：ユーザー情報の詳細を取得します
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：ユーザーID：11
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：自分のmsg情報を取得します
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：UserListページにて取得した掲示板データ：Array
+(
+    [0] => Array
+        (
+            [id] => 28
+            [receive_user] => 12
+            [send_user] => 11
+            [delete_flg] => 
+            [create_date] => 2019-07-25 17:50:28
+            [update_date] => 2019-07-25 17:50:28
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 24
+                            [bord_id] => 28
+                            [send_date] => 2019-07-27 13:35:17
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => メッセージ機能できました！！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 13:35:17
+                            [update_date] => 
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 20
+                            [bord_id] => 28
+                            [send_date] => 2019-07-26 11:29:54
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => あーどうも、うぶさん！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 11:29:54
+                            [update_date] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [id] => 19
+                            [bord_id] => 28
+                            [send_date] => 2019-07-25 17:50:49
+                            [to_user] => 11
+                            [from_user] => 12
+                            [msg] => こんにちは　ひなっちさん
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-25 17:50:49
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 29
+            [receive_user] => 11
+            [send_user] => 16
+            [delete_flg] => 
+            [create_date] => 2019-07-26 22:23:00
+            [update_date] => 2019-07-26 22:23:00
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 25
+                            [bord_id] => 29
+                            [send_date] => 2019-07-27 20:15:05
+                            [to_user] => 16
+                            [from_user] => 11
+                            [msg] => こんばんは！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 20:15:05
+                            [update_date] => 
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 22
+                            [bord_id] => 29
+                            [send_date] => 2019-07-26 22:23:36
+                            [to_user] => 11
+                            [from_user] => 16
+                            [msg] => こんばんは〜
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 22:23:36
+                            [update_date] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [id] => 21
+                            [bord_id] => 29
+                            [send_date] => 2019-07-26 22:23:13
+                            [to_user] => 16
+                            [from_user] => 11
+                            [msg] => なかださんこんにちは　ひなっちです〜
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 22:23:13
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [id] => 30
+            [receive_user] => 11
+            [send_user] => 12
+            [delete_flg] => 
+            [create_date] => 2019-07-27 11:47:48
+            [update_date] => 2019-07-27 11:47:48
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 23
+                            [bord_id] => 30
+                            [send_date] => 2019-07-27 11:48:26
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => こんにちは　うぶさーん
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 11:48:26
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [id] => 32
+            [receive_user] => 11
+            [send_user] => 15
+            [delete_flg] => 
+            [create_date] => 2019-07-27 20:32:55
+            [update_date] => 2019-07-27 20:32:55
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 28
+                            [bord_id] => 32
+                            [send_date] => 2019-07-27 20:33:13
+                            [to_user] => 15
+                            [from_user] => 11
+                            [msg] => こんにちは！ひなっちです！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 20:33:13
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+)
+
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：画面表示処理終了＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:25 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：ログイン後トップページ
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：セッションID：2gjbqfd8t2v0cjqgdkg86e5163
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1564398625
+    [login_limit] => 3600
+    [user_id] => 11
+)
+
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1564398629
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1564402225
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：ログイン済みユーザーです
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：ログイン有効期限以内です
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：ユーザー情報を取得します
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：SQL:SELECT * FROM users WHERE delete_flg =0 LIMIT 8 OFFSET 16
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：ユーザー情報の詳細を取得します
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：ユーザーID：11
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：自分のmsg情報を取得します
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：UserListページにて取得した掲示板データ：Array
+(
+    [0] => Array
+        (
+            [id] => 28
+            [receive_user] => 12
+            [send_user] => 11
+            [delete_flg] => 
+            [create_date] => 2019-07-25 17:50:28
+            [update_date] => 2019-07-25 17:50:28
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 24
+                            [bord_id] => 28
+                            [send_date] => 2019-07-27 13:35:17
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => メッセージ機能できました！！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 13:35:17
+                            [update_date] => 
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 20
+                            [bord_id] => 28
+                            [send_date] => 2019-07-26 11:29:54
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => あーどうも、うぶさん！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 11:29:54
+                            [update_date] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [id] => 19
+                            [bord_id] => 28
+                            [send_date] => 2019-07-25 17:50:49
+                            [to_user] => 11
+                            [from_user] => 12
+                            [msg] => こんにちは　ひなっちさん
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-25 17:50:49
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 29
+            [receive_user] => 11
+            [send_user] => 16
+            [delete_flg] => 
+            [create_date] => 2019-07-26 22:23:00
+            [update_date] => 2019-07-26 22:23:00
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 25
+                            [bord_id] => 29
+                            [send_date] => 2019-07-27 20:15:05
+                            [to_user] => 16
+                            [from_user] => 11
+                            [msg] => こんばんは！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 20:15:05
+                            [update_date] => 
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 22
+                            [bord_id] => 29
+                            [send_date] => 2019-07-26 22:23:36
+                            [to_user] => 11
+                            [from_user] => 16
+                            [msg] => こんばんは〜
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 22:23:36
+                            [update_date] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [id] => 21
+                            [bord_id] => 29
+                            [send_date] => 2019-07-26 22:23:13
+                            [to_user] => 16
+                            [from_user] => 11
+                            [msg] => なかださんこんにちは　ひなっちです〜
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 22:23:13
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [id] => 30
+            [receive_user] => 11
+            [send_user] => 12
+            [delete_flg] => 
+            [create_date] => 2019-07-27 11:47:48
+            [update_date] => 2019-07-27 11:47:48
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 23
+                            [bord_id] => 30
+                            [send_date] => 2019-07-27 11:48:26
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => こんにちは　うぶさーん
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 11:48:26
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [id] => 32
+            [receive_user] => 11
+            [send_user] => 15
+            [delete_flg] => 
+            [create_date] => 2019-07-27 20:32:55
+            [update_date] => 2019-07-27 20:32:55
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 28
+                            [bord_id] => 32
+                            [send_date] => 2019-07-27 20:33:13
+                            [to_user] => 15
+                            [from_user] => 11
+                            [msg] => こんにちは！ひなっちです！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 20:33:13
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+)
+
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：画面表示処理終了＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:29 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：ログイン後トップページ
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：セッションID：eovi0vfkdkhton9lh1vh193k2q
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1564398629
+    [login_limit] => 3600
+    [user_id] => 11
+)
+
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1564398633
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1564402229
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：ログイン済みユーザーです
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：ログイン有効期限以内です
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：ユーザー情報を取得します
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：SQL:SELECT * FROM users WHERE delete_flg =0 LIMIT 8 OFFSET 0
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：ユーザー情報の詳細を取得します
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：ユーザーID：11
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：自分のmsg情報を取得します
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：UserListページにて取得した掲示板データ：Array
+(
+    [0] => Array
+        (
+            [id] => 28
+            [receive_user] => 12
+            [send_user] => 11
+            [delete_flg] => 
+            [create_date] => 2019-07-25 17:50:28
+            [update_date] => 2019-07-25 17:50:28
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 24
+                            [bord_id] => 28
+                            [send_date] => 2019-07-27 13:35:17
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => メッセージ機能できました！！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 13:35:17
+                            [update_date] => 
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 20
+                            [bord_id] => 28
+                            [send_date] => 2019-07-26 11:29:54
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => あーどうも、うぶさん！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 11:29:54
+                            [update_date] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [id] => 19
+                            [bord_id] => 28
+                            [send_date] => 2019-07-25 17:50:49
+                            [to_user] => 11
+                            [from_user] => 12
+                            [msg] => こんにちは　ひなっちさん
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-25 17:50:49
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 29
+            [receive_user] => 11
+            [send_user] => 16
+            [delete_flg] => 
+            [create_date] => 2019-07-26 22:23:00
+            [update_date] => 2019-07-26 22:23:00
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 25
+                            [bord_id] => 29
+                            [send_date] => 2019-07-27 20:15:05
+                            [to_user] => 16
+                            [from_user] => 11
+                            [msg] => こんばんは！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 20:15:05
+                            [update_date] => 
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 22
+                            [bord_id] => 29
+                            [send_date] => 2019-07-26 22:23:36
+                            [to_user] => 11
+                            [from_user] => 16
+                            [msg] => こんばんは〜
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 22:23:36
+                            [update_date] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [id] => 21
+                            [bord_id] => 29
+                            [send_date] => 2019-07-26 22:23:13
+                            [to_user] => 16
+                            [from_user] => 11
+                            [msg] => なかださんこんにちは　ひなっちです〜
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-26 22:23:13
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [id] => 30
+            [receive_user] => 11
+            [send_user] => 12
+            [delete_flg] => 
+            [create_date] => 2019-07-27 11:47:48
+            [update_date] => 2019-07-27 11:47:48
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 23
+                            [bord_id] => 30
+                            [send_date] => 2019-07-27 11:48:26
+                            [to_user] => 12
+                            [from_user] => 11
+                            [msg] => こんにちは　うぶさーん
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 11:48:26
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [id] => 32
+            [receive_user] => 11
+            [send_user] => 15
+            [delete_flg] => 
+            [create_date] => 2019-07-27 20:32:55
+            [update_date] => 2019-07-27 20:32:55
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 28
+                            [bord_id] => 32
+                            [send_date] => 2019-07-27 20:33:13
+                            [to_user] => 15
+                            [from_user] => 11
+                            [msg] => こんにちは！ひなっちです！
+                            [delete_flg] => 0
+                            [create_date] => 2019-07-27 20:33:13
+                            [update_date] => 
+                        )
+
+                )
+
+        )
+
+)
+
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：画面表示処理終了＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：クエリ成功。
+[29-Jul-2019 20:10:33 Asia/Tokyo] デバッグ：クエリ成功。
